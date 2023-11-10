@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AppLoginAuth_Example' do
+  pod 'AppLoginAuth', :path => '../'
+
+  target 'AppLoginAuth_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

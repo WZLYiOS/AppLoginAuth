@@ -1,0 +1,18 @@
+PODS:
+  - AppLoginAuth (0.1.0):
+    - AppLoginAuth/Core (= 0.1.0)
+  - AppLoginAuth/Core (0.1.0)
+
+DEPENDENCIES:
+  - AppLoginAuth (from `../`)
+
+EXTERNAL SOURCES:
+  AppLoginAuth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppLoginAuth: 7f412445f714cf4a7f0f5fec07e72076969ffb4a
+
+PODFILE CHECKSUM: 9e5f9a514902f7722de30e24260721ed447d318f
+
+COCOAPODS: 1.12.1
